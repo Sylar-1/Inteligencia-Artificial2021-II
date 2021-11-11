@@ -21,7 +21,7 @@ html {
 }
 
 #main .carousel-inner img{
-    max-height: 90vh;
+    max-height: 100vh;
     object-fit: cover;
     filter: grayscale(40%);
 }
